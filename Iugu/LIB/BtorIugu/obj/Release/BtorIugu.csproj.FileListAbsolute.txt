@@ -1,0 +1,9 @@
+D:\BTOR_PROJETOS\Iugu\LIB\BtorIugu\bin\Release\BtorIugu.dll
+D:\BTOR_PROJETOS\Iugu\LIB\BtorIugu\bin\Release\BtorIugu.pdb
+D:\BTOR_PROJETOS\Iugu\LIB\BtorIugu\bin\Release\Newtonsoft.Json.dll
+D:\BTOR_PROJETOS\Iugu\LIB\BtorIugu\bin\Release\Newtonsoft.Json.xml
+D:\BTOR_PROJETOS\Iugu\LIB\BtorIugu\obj\Release\BtorIugu.csproj.CoreCompileInputs.cache
+D:\BTOR_PROJETOS\Iugu\LIB\BtorIugu\obj\Release\BtorIugu.csproj.CopyComplete
+D:\BTOR_PROJETOS\Iugu\LIB\BtorIugu\obj\Release\BtorIugu.dll
+D:\BTOR_PROJETOS\Iugu\LIB\BtorIugu\obj\Release\BtorIugu.pdb
+D:\BTOR_PROJETOS\Iugu\LIB\BtorIugu\obj\Release\BtorIugu.csprojResolveAssemblyReference.cache

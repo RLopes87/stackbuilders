@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtorIugu", "BtorIugu\BtorIugu.csproj", "{286EA387-1965-4F03-9B80-EC703655DA79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestIugu", "UnitTestIugu\UnitTestIugu.csproj", "{BF6B51C5-E18F-464B-AF6F-B77F59D24154}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{286EA387-1965-4F03-9B80-EC703655DA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286EA387-1965-4F03-9B80-EC703655DA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286EA387-1965-4F03-9B80-EC703655DA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286EA387-1965-4F03-9B80-EC703655DA79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF6B51C5-E18F-464B-AF6F-B77F59D24154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6B51C5-E18F-464B-AF6F-B77F59D24154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6B51C5-E18F-464B-AF6F-B77F59D24154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6B51C5-E18F-464B-AF6F-B77F59D24154}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CACD17C-995D-48A1-B324-AC2B19FEEE9A}
+	EndGlobalSection
+EndGlobal
